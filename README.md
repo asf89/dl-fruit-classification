@@ -1,10 +1,10 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### André Ferreira
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens|ex.: YOLOv5|PyTorch ou Tensorflow|
 
 ## Performance
 
@@ -29,9 +29,7 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Nome do link](google.com)
+[Roboflow dataset](https://app.roboflow.com/cesar-school-3vhz6/fruit-types-7pjp8/overview)
 
 ## HuggingFace
 
